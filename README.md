@@ -1,1 +1,1 @@
-# pm2
+# myip-panel
